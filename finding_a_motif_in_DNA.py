@@ -1,0 +1,4 @@
+
+DNA = "GATATATGCATATACTT"
+motif = "ATAT"
+
